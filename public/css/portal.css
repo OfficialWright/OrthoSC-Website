@@ -1,0 +1,19 @@
+thead {
+	width: 100%;
+	background-color: #005682;
+	color: white;
+	text-align: center;
+}
+
+#patientBody > tr {
+	width: 100%;
+	text-align: center;
+}
+
+#patientBody > tr:nth-child(even) {
+	background-color: lightblue;
+}
+
+#patientTable {
+	width: 100%
+}
